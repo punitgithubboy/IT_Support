@@ -11,6 +11,14 @@ The IT Support Chatbot is an AI-powered assistant designed to enhance IT helpdes
 - Supports multi-platform deployment (web, messaging apps).
 - Uses NLP for conversational and context-aware interactions.
 
+## Screenshots 
+![image](https://github.com/user-attachments/assets/bb93d4d8-5445-4c02-a3ed-04a55c238aa4)
+
+**Multilingual IT Support (e.g., Russian)**
+
+![image](https://github.com/user-attachments/assets/fa714fe5-2ddd-48da-8d30-7b8afd5691fa)
+
+
 ## Prerequisites
 - Python 3.8 or higher
 - Required Python packages (listed in `requirements.txt`):
